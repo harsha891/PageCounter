@@ -9,7 +9,7 @@ Harsha Vardhan Gannamuneni - C0931034
 Open IntelliJ IDEA.
 Select Open Project and choose the cloned project folder.
 IntelliJ will detect the build.gradle file and prompt you to import Gradle dependencies. Click "Import Gradle Project" and wait for all dependencies to download.
-#### Wait for IntelliJ to download dependencies from Maven repositories.
+#### Wait for IntelliJ to download dependencies from Gradle repositories.
 
 #### Build the Project
 
